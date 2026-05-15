@@ -1,4 +1,4 @@
-# 🕹️ Maze Chase — Pacman Algorithm Demo
+# 🕹️ Maze Chase
 
 > A Pac-Man-style maze game built with **Python + Pygame** that visualizes classic graph traversal algorithms in real time.  
 > Created as a project for the **Design and Analysis of Algorithms (PAA)** course at ITS Surabaya.
